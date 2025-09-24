@@ -7,15 +7,14 @@ Add a description of your project here.
 
 Steps to build and/or run the software:
 
-1. First step here
-2.
-3.
+1. create code for arduino to ping the bluetooth on my phone to confirm a connection.
+2. Create code on phone to confirm connection with arduino via bluetooth.
+3. Make a very simple app that at least lets me download on my phone and trial the connection 
+with bluetooth
 
 Instructions for using the software:
 
-1. First step here
-2.
-3.
+1. Type "ping" in on phone and see if arduino recieves "ping" and returns ping recieved to phone.
 
 ## Development Environment 
 
